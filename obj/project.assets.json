@@ -850,11 +850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\pastaProvisoria\\UC07\\Atividade 1\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\pastaProvisoria\\UC07\\Atividade 2\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\USER\\Documents\\pastaProvisoria\\UC07\\Atividade 1\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\USER\\Documents\\pastaProvisoria\\UC07\\Atividade 2\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\pastaProvisoria\\UC07\\Atividade 1\\Biblioteca - netcore3.1\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\pastaProvisoria\\UC07\\Atividade 2\\Biblioteca - netcore3.1\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
